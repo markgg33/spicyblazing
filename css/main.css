@@ -2,7 +2,7 @@ main{
     width: 100%;
     height: calc(100vh - 60px);
     background-color: #1A253A;
-    background-image: url(/images/hero-self.png) ,url(/images/bg.png) ;
+    background-image: url(../images/hero-self.png) ,url(../images/bg.png) ; ;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: right, bottom;
